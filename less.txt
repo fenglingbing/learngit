@@ -5,3 +5,5 @@ git reflog
 查看该了啥
 git diff
 git checkout -- file
+创建一个分支并且切换到创建的分支
+git checkout -b dev
