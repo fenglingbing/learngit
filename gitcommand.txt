@@ -1,0 +1,6 @@
+查看commit id
+git log --pretty=oneline
+查看所有变动的版本
+git reflog
+查看该了啥
+git diff
